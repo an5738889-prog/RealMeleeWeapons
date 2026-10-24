@@ -1,0 +1,30 @@
+{
+  "item.realmelee.combat_knife": "Dao Chiến Đấu",
+  "item.realmelee.machete": "Machete",
+  "item.realmelee.katana": "Katana",
+  "item.realmelee.bayonet": "Lưỡi Lê",
+  "item.realmelee.trench_knife": "Dao Hầm",
+  "item.realmelee.baseball_bat": "Gậy Bóng Chày",
+  "item.realmelee.crowbar": "Xà Beng",
+  "item.realmelee.fire_axe": "Rìu Cứu Hỏa",
+  "item.realmelee.spear": "Giáo",
+  "item.realmelee.tomahawk": "Tomahawk",
+  "item.realmelee.sledgehammer": "Búa Tạ",
+  "item.realmelee.nightstick": "Dùi Cui",
+  "item.realmelee.butterfly_knife": "Dao Bướm",
+  "item.realmelee.cleaver": "Dao Chặt",
+  "item.realmelee.war_hammer": "Búa Chiến",
+  "item.realmelee.tactical_axe": "Rìu Chiến Thuật",
+
+  "item.realmelee.tactical_helmet": "Mũ Chiến Thuật",
+  "item.realmelee.tactical_chestplate": "Áo Giáp Chiến Thuật",
+  "item.realmelee.tactical_leggings": "Quần Giáp Chiến Thuật",
+  "item.realmelee.tactical_boots": "Giày Chiến Thuật",
+
+  "item.realmelee.scout_helmet": "Mũ Trinh Sát",
+  "item.realmelee.scout_chestplate": "Áo Giáp Trinh Sát",
+  "item.realmelee.scout_leggings": "Quần Giáp Trinh Sát",
+  "item.realmelee.scout_boots": "Giày Trinh Sát",
+
+  "creativetab.realmelee_tab": "Vũ Khí Cận Chiến"
+}
